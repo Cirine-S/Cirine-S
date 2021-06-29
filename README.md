@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-## :raising_hand: Who am I?
+## :mortar_board: Who am I?
 
+- :raising_hand: I'm Cirine Sassi
 - 💬 Having an IT background (graduate studies) and being very motivated to constantly develop my skills and evolve professionally, I've chosen to deepen my development skills in Holberton School.
 - ✨ I have a bachelor degree in Computing, a Master in Finance and now, I'm finishing my second year of FullStack Web speciality in Holberton School.
 
@@ -12,9 +13,9 @@
 
 
 <p align="center">
- <a href="https://github.com/Cirine92" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/cirine-sassi-30a546146/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cyrine-sassi@hotmail.com"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/Cirine92" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40"> </a>
+ <a href="https://www.linkedin.com/in/cirine-sassi-30a546146/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" ></a>
+ <a href="mailto:cyrine-sassi@hotmail.com"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" alt="Python" height="40"></a>
 </p>
 
 <br />
