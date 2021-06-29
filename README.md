@@ -17,8 +17,9 @@
 <br />
 
 ## 🧰 Languages and Tools:
+<p align="center">
 
-[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">][C]
+[<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">][C]
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
@@ -40,11 +41,21 @@
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
+ </p>
 <br />
 <br />
 
+## :memo: Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [C Static Libraries](https://www.linkedin.com/pulse/c-static-libraries-cirine-sassi/)
+- [Static Libraries vs. Dynamic Libraries in C](https://www.linkedin.com/pulse/static-libraries-vs-dynamic-c-cirine-sassi/)
+- [Machine Learning for newbies](https://www.linkedin.com/pulse/machine-learning-newbies-cirine-sassi/)
+- [What happens when you type a URL in your browser and press enter](https://www.linkedin.com/pulse/what-happens-when-you-type-url-your-browser-press-enter-cirine-sassi/)
+- [IoT](https://www.linkedin.com/pulse/iot-cirine-sassi/)
+<!-- BLOG-POST-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=Cirine92&color=brightgreen&style=plastic&label=Views)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Cirine92)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Cirine92)
 
 [react]: https://github.com/Cirine92/holbertonschool-web_react
 [Python]: https://github.com/Cirine92/holbertonschool-higher_level_programming
