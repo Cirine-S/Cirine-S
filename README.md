@@ -18,18 +18,37 @@
 </p>
 
 <br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="Python" height="40" style="vertical-align:top; margin:4px">](https://github.com/Cirine92/holbertonschool-low_level_programming)
-
-
-</p>
-
 <br />
 
-## :memo: Blog posts
+## 🧰 Languages and Tools:
+
+[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">](https://github.com/Cirine92/holbertonschool-low_level_programming)
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
+
+[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://github.com/Cirine92/holbertonschool-higher_level_programming)
+
+[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">](https://github.com/Cirine92/holbertonschool-web_react)
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+
+<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+
+
+<br />
+<br />
+
+## :memo: Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [C Static Libraries](https://www.linkedin.com/pulse/c-static-libraries-cirine-sassi/)
 - [Static Libraries vs. Dynamic Libraries in C](https://www.linkedin.com/pulse/static-libraries-vs-dynamic-c-cirine-sassi/)
@@ -39,6 +58,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<br />
 <br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Cirine92)
