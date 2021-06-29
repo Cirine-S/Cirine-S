@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-### Who am I?
+## :raising_hand: Who am I?
 
 - 💬 Having an IT background (graduate studies) and being very motivated to constantly develop my skills and evolve professionally, I've chosen to deepen my development skills in Holberton School.
 - ✨ I have a bachelor degree in Computing, a Master in Finance and now, I'm finishing my second year of FullStack Web speciality in Holberton School.
+
+
+<br />
 
 ## ✉️ Find me on:
 
@@ -25,7 +28,7 @@
 
 [<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">][python]
 
-[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
+[<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react](https://github.com/Cirine92/holbertonschool-web_react)
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
@@ -43,7 +46,6 @@
 
  </p>
 <br />
-<br />
 
 ## :memo: Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,9 +56,13 @@
 - [IoT](https://www.linkedin.com/pulse/iot-cirine-sassi/)
 <!-- BLOG-POST-LIST:END -->
 
+
+<br />
+
+<p align="right">
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Cirine92)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Cirine92)
+</p>
 
-[react]: https://github.com/Cirine92/holbertonschool-web_react
 [Python]: https://github.com/Cirine92/holbertonschool-higher_level_programming
 [C]: https://github.com/Cirine92/holbertonschool-low_level_programming
