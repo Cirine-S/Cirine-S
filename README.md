@@ -16,8 +16,8 @@
 </p>
 
 <br />
-	
-### Languages and Tools:
+
+## 🧰 Languages and Tools:
 
 [<img align="left" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">][C]
 
@@ -43,6 +43,8 @@
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&layout=compact)](https://github.com/Cirine92)
 
 
 ![](https://komarev.com/ghpvc/?username=Cirine92&color=brightgreen&style=plastic&label=Views)
