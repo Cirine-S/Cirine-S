@@ -44,8 +44,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlassi1&layout=compact)](https://github.com/Cirine92)
-
 
 ![](https://komarev.com/ghpvc/?username=Cirine92&color=brightgreen&style=plastic&label=Views)
 
