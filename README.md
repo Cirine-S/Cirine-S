@@ -59,7 +59,6 @@
 
 <br />
 
-<p align="right">
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Cirine92)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Cirine92)
-</p>
+
