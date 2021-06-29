@@ -47,6 +47,7 @@
 
 <br />
 <br />
+<br />
 
 ## :memo: Blog posts:
 <!-- BLOG-POST-LIST:START -->
