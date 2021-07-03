@@ -13,7 +13,7 @@
 
 
 <p align="center">
- <a href="https://github.com/Cirine92" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40"> </a>
+ <a href="https://github.com/Cirine92" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Python" height="40"> </a>
  <a href="https://www.linkedin.com/in/cirine-sassi-30a546146/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" ></a>
  <a href="mailto:cyrine-sassi@hotmail.com"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/email-3327398-2789947.png" alt="Python" height="40"></a>
 </p>
